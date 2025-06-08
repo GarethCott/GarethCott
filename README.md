@@ -76,7 +76,7 @@
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GarethCott&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=2)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GarethCott&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2)
 
 </div>
 
