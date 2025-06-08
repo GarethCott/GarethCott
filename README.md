@@ -36,7 +36,6 @@
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Desktop Development
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
@@ -60,52 +59,32 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarethCott&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GarethCott&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarethCott&theme=github_dark&hide_border=true&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GarethCott&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarethCott&theme=github_dark&hide_border=true&layout=compact"/>
 
 </div>
 
-## 🏆 GitHub Activity
+## 🔥 Contribution Streak
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GarethCott&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GarethCott&theme=github-dark-blue&hide_border=true)
 
 </div>
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GarethCott&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=2)
+
+</div>
+
+## 📈 Activity Graph
 
 <div align="center">
   
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GarethCott&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/GarethCott/GarethCott/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 💻 Weekly Development Breakdown
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-## 🎯 GitHub Metrics
-
-<div align="center">
-  
-![Metrics](https://metrics.lecoq.io/GarethCott?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Europe%2FLondon)
 
 </div>
 
@@ -147,11 +126,14 @@ const currentFocus = {
 
 </div>
 
-## 🔥 Streak & Commits
+## 💼 What I'm Up To
 
 <div align="center">
-  
-![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=GarethCott&theme=github-dark-blue&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+| 🎯 **Current Goal** | 🚀 **Next Project** | 📚 **Learning** |
+|:---:|:---:|:---:|
+| AWS Certification | Flutter App | Cloud Architecture |
+| Hasura MCP Server | Angular Dashboard | Advanced TypeScript |
 
 </div>
 
