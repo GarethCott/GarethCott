@@ -1,90 +1,85 @@
-# Hi there! 👋 I'm Gareth Cottrell
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+%26+Mobile+Developer;Next.js+%7C+Angular+%7C+Flutter;AWS+Cloud+Enthusiast;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Gareth%20Cottrell&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20%E2%80%A2%20AWS&descSize=18&descAlignY=60&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+%26+Mobile+Developer;Next.js+%7C+Angular+%7C+Flutter;AWS+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
+Software engineer building full-stack web, mobile, and desktop apps. I work across the stack with TypeScript, and I'm currently focused on cloud architecture and agentic tooling on AWS.
 
-- 🔭 I'm currently working on **Hasura MCP server & private projects**
-- 🌱 I'm currently pursuing **AWS Certification**
-- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🔭 Working on **Hasura MCP server** and private projects
+- 🌱 Pursuing **AWS Certification** and deepening my cloud architecture skills
 - 💬 Ask me about **Next.js, Angular, Flutter, TypeScript, AWS, Tauri**
-- 📫 How to reach me: **gareth.cott@gmail.com**
-- ⚡ Fun fact: **I'm an Engineer with a deep passion for software development!**
+- 📫 Reach me at **gareth.cott@gmail.com**
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend Frameworks
+**Frontend**
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### UI & Styling
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+**Mobile & Desktop**
 
-### Desktop Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
-### Cloud & AWS Services
+**Cloud & AWS**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS CLI](https://img.shields.io/badge/AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & Development
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+**Data & Backend**
+
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GarethCott&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarethCott&theme=github_dark&hide_border=true&layout=compact"/>
 
 </div>
 
-## 🔥 Contribution Streak
+## 📈 Deeper Metrics
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GarethCott&theme=github-dark-blue&hide_border=true)
+
+![Metrics](./github-metrics.svg)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🧊 3D Contribution Graph
 
 <div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GarethCott&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2)
+
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GarethCott&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://raw.githubusercontent.com/GarethCott/GarethCott/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -92,55 +87,25 @@
 
 ```typescript
 const currentFocus = {
-    learning: ["AWS Certification", "Advanced TypeScript", "Cloud Architecture"],
-    building: ["Hasura MCP server", "Private projects", "AWS solutions"],
-    technologies: ["Next.js", "Angular", "Flutter", "TypeScript", "AWS", "Tailwind", "Shadcn/ui"],
-    goals: ["Achieve AWS certification", "Build scalable cloud solutions"]
+  learning:     ["AWS Certification", "Advanced TypeScript", "Cloud Architecture"],
+  building:     ["Hasura MCP server", "Private projects", "AWS solutions"],
+  technologies: ["Next.js", "Angular", "Flutter", "TypeScript", "AWS", "Tauri"],
+  goals:        ["AWS certification", "Build scalable cloud solutions"],
 };
 ```
 
-## 📫 Connect with Me
+## 📫 Connect
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gareth-cottrell)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/GarethCott)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gareth-cottrell)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GarethCott)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gareth.cott@gmail.com)
 
 </div>
 
-## 🎲 Random Dev Quote
-<div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-## 📊 Profile Analytics
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=GarethCott&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/GarethCott?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/GarethCott?label=Stars&style=social)
-
-</div>
-
-## 💼 What I'm Up To
-
 <div align="center">
 
-| 🎯 **Current Goal** | 🚀 **Next Project** | 📚 **Learning** |
-|:---:|:---:|:---:|
-| AWS Certification | Flutter App | Cloud Architecture |
-| Hasura MCP Server | Angular Dashboard | Advanced TypeScript |
-
-</div>
-
----
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
