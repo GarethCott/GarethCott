@@ -36,20 +36,6 @@ Software engineer building full-stack web, mobile, and desktop apps. I work acro
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Current Focus
-
-```typescript
-const currentFocus = {
-  learning:     ["AWS Certification", "Advanced TypeScript", "Cloud Architecture"],
-  building:     ["Hasura MCP server", "Private projects", "AWS solutions"],
-  technologies: ["Next.js", "Angular", "Flutter", "TypeScript", "AWS", "Tauri"],
-};
-```
-
-## Contributions
-
-![Snake animation](https://raw.githubusercontent.com/GarethCott/GarethCott/output/github-contribution-grid-snake-dark.svg)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gareth-cottrell)
