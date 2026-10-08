@@ -4,7 +4,7 @@ Software engineer based in Pretoria, South Africa. I design and ship full-stack 
 
 ## What I work on
 
-- **AI kernels & assistants**: model-agnostic AI services that read documents and drawings, run tool-calling assistant loops, rank and recommend, with strict JSON schemas, cost metering and zero-retention routing via OpenRouter
+- **AI services & assistants**: model-agnostic AI services that read documents and drawings, run tool-calling assistant loops, rank and recommend, with strict JSON schemas, cost metering and zero-retention routing via OpenRouter
 - **Multi-agent dev tooling**: an orchestrator that breaks a task into specialist agent subtasks, runs coding agents in isolated git worktrees, validates the work and opens the PR
 - **Multi-tenant SaaS platforms**: one shared Postgres with a Hasura GraphQL API per tenant, row-level permissions, and a dashboard, mobile app, landing site and docs for each product
 - **Data ingest workers**: long-running pollers that pull third-party feeds, normalise them into canonical schemas and acknowledge only after a transactional commit
